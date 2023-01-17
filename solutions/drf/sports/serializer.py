@@ -6,7 +6,7 @@ class SportSerializer(serializers.Serializer):
     name = serializers.CharField()
     description = serializers.CharField()
     num_of_players = serializers.IntegerField()
-    sport_type = serializers.CharField()
+    sport_type = serializers.ChoiceField(choices=Sports.SPORT_TYPE_CHOICES)
     
     def create(self, validated_data):
         return Sports.objects.create(**validated_data)
