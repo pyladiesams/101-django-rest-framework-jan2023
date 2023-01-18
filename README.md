@@ -12,12 +12,17 @@ During the workshop you will learn all things DRF to get started with a project 
 * Django Views and Class based views
 
 ## Requirements
-Do not forget to indicate Python version and any other tools
-+ add requirements.txt or conda.yml or docker image or Binder/Google Collab link
+Python version 3.8 and above. Download from [here](https://www.python.org/downloads/)
+
+To install dependencies:
+pip install -r solutions/requirements.txt
 
 ## Usage
 * Clone the repository
-* Start { TOOL } and navigate to the workshop folder
+* Install dependencies
+* Navigate to solutions/drf folder
+* python manage.py runserver
+This should run the server on port 8000.
 
 ## Video record
 Re-watch YouTube stream [here](https://youtu.be/aH9Ax5Y7ztk)
