@@ -5,11 +5,12 @@
 
 ## Workshop description
 During the workshop you will learn all things DRF to get started with a project using Django Rest Framework.
-* What is REST
-* What is DRF
-* When/Why should you use DRF
-* Serialization
-* Django Views and Class based views
+* Summary about CRUD operations.
+* What is Django?
+* What is Django Rest Framework (DRF)?
+* When/Why should you use DRF?
+* Serialization.
+* Django Views and Class based views.
 
 ## Requirements
 Python version 3.8 and above. Download from [here](https://www.python.org/downloads/)
