@@ -22,7 +22,7 @@ pip install -r solutions/requirements.txt
 * Install dependencies
 * Navigate to solutions/drf folder
 * python manage.py runserver
-This should run the server on port 8000.
+This should run the server on port 8000 and can be accessed at http://localhost:8000
 
 ## Video record
 Re-watch YouTube stream [here](https://youtu.be/aH9Ax5Y7ztk)
