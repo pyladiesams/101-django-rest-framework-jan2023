@@ -1,7 +1,7 @@
 
 # 101 Django Rest Framework
 ### Level: Beginner
-### Presentation: [Presentation_name](workshop/Django%20Rest%20Framework.pptx)
+### Presentation: [Django Rest Framework](workshop/Django%20Rest%20Framework.pptx)
 
 ## Workshop description
 During the workshop you will learn all things DRF to get started with a project using Django Rest Framework.
